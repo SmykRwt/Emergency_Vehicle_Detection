@@ -1,0 +1,15 @@
+names:
+- '0'
+- FFF - v2 2
+- ambulance
+- police-car detection - v4 2023-08-26 12-47pm
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: safety_vehicles-gk05s
+  url: https://universe.roboflow.com/samyak-cb3dw/safety_vehicles-gk05s/dataset/1
+  version: 1
+  workspace: samyak-cb3dw
+test: ../test/images
+train: ../train/images
+val: ../valid/images

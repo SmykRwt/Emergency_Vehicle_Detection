@@ -1,0 +1,10 @@
+path: C:\Users\rawat\PycharmProjects\Emergency_Vehicle_Detection\Object Recognition.v1i.yolov8  # Relative path from where you run train.py
+train: train/images
+val: valid/images
+
+names:
+  0: car
+  1: truck
+  2: bus
+  3: motorcycle
+  4: emergency
