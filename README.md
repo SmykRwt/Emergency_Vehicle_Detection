@@ -23,4 +23,8 @@ The goal is to reduce congestion and prioritize emergency vehicles in real-time.
 
 ---
 
-## 📂 Project Structure
+## 🔮 Future Scope
+
+ - Edge device deployment (Jetson Nano / Raspberry Pi)
+ - Integration with real traffic signal hardware
+ - Cloud-based monitoring dashboard
